@@ -1,0 +1,15 @@
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\bin\Debug\net9.0\gestor.exe
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\bin\Debug\net9.0\gestor.deps.json
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\bin\Debug\net9.0\gestor.runtimeconfig.json
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\bin\Debug\net9.0\gestor.dll
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\bin\Debug\net9.0\gestor.pdb
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.AssemblyInfoInputs.cache
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.AssemblyInfo.cs
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.sourcelink.json
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.dll
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\refint\gestor.dll
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.pdb
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\gestor.genruntimeconfig.cache
+C:\Users\luisv\Downloads\gestortareas_plat\Gestor\obj\Debug\net9.0\ref\gestor.dll

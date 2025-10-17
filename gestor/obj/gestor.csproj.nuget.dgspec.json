@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minit\\OneDrive\\Desktop\\IIS\\PLATDIG\\gestortareas_plat\\gestor\\gestor.csproj": {}
+    "C:\\Users\\luisv\\Downloads\\gestortareas_plat\\Gestor\\gestor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minit\\OneDrive\\Desktop\\IIS\\PLATDIG\\gestortareas_plat\\gestor\\gestor.csproj": {
+    "C:\\Users\\luisv\\Downloads\\gestortareas_plat\\Gestor\\gestor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minit\\OneDrive\\Desktop\\IIS\\PLATDIG\\gestortareas_plat\\gestor\\gestor.csproj",
+        "projectUniqueName": "C:\\Users\\luisv\\Downloads\\gestortareas_plat\\Gestor\\gestor.csproj",
         "projectName": "gestor",
-        "projectPath": "C:\\Users\\minit\\OneDrive\\Desktop\\IIS\\PLATDIG\\gestortareas_plat\\gestor\\gestor.csproj",
-        "packagesPath": "C:\\Users\\minit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minit\\OneDrive\\Desktop\\IIS\\PLATDIG\\gestortareas_plat\\gestor\\obj\\",
+        "projectPath": "C:\\Users\\luisv\\Downloads\\gestortareas_plat\\Gestor\\gestor.csproj",
+        "packagesPath": "C:\\Users\\luisv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisv\\Downloads\\gestortareas_plat\\Gestor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\minit\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\luisv\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
